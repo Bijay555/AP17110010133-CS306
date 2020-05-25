@@ -1,3 +1,5 @@
 This folder contain exercise related to shift reduce parser.
 This is compiler design exercise
 May 19, 2020
+
+Screen shot of one accepted and one rejected example is attached.
