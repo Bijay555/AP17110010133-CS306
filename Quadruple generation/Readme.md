@@ -7,7 +7,7 @@ T→T*F | F
 
 F→( E ) |VAR
 
-+ Description
+## Description
 The quadruples are intermediate code forms of expressions having the following form
 
 Operator Operand1 Operand2 Result
